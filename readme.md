@@ -4,30 +4,6 @@
 
 Este proyecto es una tienda en línea para la venta de zapatillas. La aplicación utiliza diversas tecnologías y librerías para proporcionar una experiencia de usuario fluida y segura, incluyendo autenticación, compresión de datos, manejo de cookies, conexiones en tiempo real y más.
 
-## Tecnologías y Librerías Utilizadas
-
-### Backend
-
-- **Node.js**: Entorno de ejecución para JavaScript en el servidor.
-- **Express.js**: Framework para aplicaciones web en Node.js.
-- **Mongoose**: Librería de modelado de datos de MongoDB para Node.js.
-- **Passport.js**: Middleware para autenticación.
-- **Socket.io**: Biblioteca para la comunicación en tiempo real.
-- **Handlebars**: Motor de plantillas para generar vistas HTML.
-- **Compression**: Middleware para la compresión de respuestas HTTP.
-- **Method-Override**: Middleware para soportar métodos HTTP adicionales.
-- **Cookie-Parser**: Middleware para el manejo de cookies.
-- **Winston**: Librería para el registro de logs.
-- **Swagger**: Herramienta para la documentación de APIs.
-- **Cors**: Middleware para habilitar CORS (Cross-Origin Resource Sharing).
-- **Bcrypt**: Librería para el hash de contraseñas.
-- **Nodemailer**: Librería para el envío de correos electrónicos.
-- **Multer**: Middleware para la gestión de archivos.
-
-### Frontend
-
-- **Bootstrap**: Framework CSS para diseño responsivo.
-- **SweetAlert2**: Biblioteca para mostrar alertas bonitas.
 
 ## Instalación
 
