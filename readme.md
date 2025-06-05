@@ -1,11 +1,18 @@
-# Proyecto E-commerce de Zapatillas
+# 🛒 Proyecto Integrador – E-commerce Contenerizado con Docker
 
-## Descripción del Proyecto
+Este proyecto fue desarrollado como parte del Trabajo Integrador de la **Tecnicatura Universitaria en Programación**. Consiste en una aplicación e-commerce construida con Node.js, Express, MongoDB y Handlebars, contenerizada utilizando Docker.
 
 Este proyecto es una tienda en línea para la venta de zapatillas. La aplicación utiliza diversas tecnologías y librerías para proporcionar una experiencia de usuario fluida y segura, incluyendo autenticación, compresión de datos, manejo de cookies, conexiones en tiempo real y más.
 
+## 📦 Objetivo
 
-## Instalación
+Aplicar los conceptos de virtualización de aplicaciones mediante **Docker**, logrando empaquetar todo el entorno de desarrollo y ejecución en contenedores portables y reutilizables.
+
+---
+
+
+
+## Instalación local
 
 1. Clonar el repositorio:
 
@@ -91,26 +98,4 @@ Notificaciones: Utiliza SweetAlert2 para mostrar notificaciones al usuario.
 
 ````
 
-Funcionalidades Clave
-Autenticación: Utiliza Passport.js con estrategias locales y de terceros (GitHub).
-Compresión: Middleware para comprimir las respuestas HTTP.
-Manejo de Errores: Middleware centralizado para errores.
-Documentación de API: Swagger para documentar y probar la API.
-Subida de Archivos: Multer para la gestión de archivos.
-Pagos: Integración con MercadoPago.
-Vistas Dinámicas: Handlebars para generar vistas dinámicas.
-Logs: Winston para el registro de eventos y errores.
-Notificaciones: SweetAlert2 para notificaciones interactivas.
-Requisito de Registro
-Para acceder a la aplicación y disfrutar de sus funcionalidades, es obligatorio registrarse. Los usuarios no registrados no podrán ver ni utilizar características como:
 
-Interactividad en tiempo real con productos y carrito.
-Procesos de compra y pagos.
-Notificaciones dinámicas mediante SweetAlert2.
-Acceso a contenido dinámico y funcionalidades protegidas.
-
-
-Contribuir
-Las contribuciones son bienvenidas. Por favor, abre un issue o envía un pull request.
-
-Licencia
