@@ -1,4 +1,4 @@
-# 🛒 Proyecto Integrador – E-commerce Contenerizado con Docker
+# 🛒 Proyecto Integrador – E-commerce Contenerizado con Docker - Andres Piuzzi y Pablo León
 
 Este proyecto fue desarrollado como parte del Trabajo Integrador de la **Tecnicatura Universitaria en Programación**. Consiste en una aplicación e-commerce construida con Node.js, Express, MongoDB y Handlebars, contenerizada utilizando Docker.
 
